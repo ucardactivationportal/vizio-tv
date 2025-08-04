@@ -10,9 +10,9 @@ Visit `vizio.com/setup <#>`_ to start your setup journey today!
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: Vizio_Button.png
+.. image:: Button.png
    :alt: VIZIO Smart TV Setup
-   :target: https://www.vizio.com/setup
+   :target:  https://pre.im/?3X7UunD01l84Sk5IcJsdoTGxq3ppffYLvvtGM5e1cji6Gnmeu0cGr7X2qK99jKJwL6PQa
 
 .. raw:: html
 
