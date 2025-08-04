@@ -4,7 +4,7 @@ VIZIO Smart TV Setup Guide
 
 Welcome to the VIZIO Smart TV Setup Guide! Follow the instructions below to set up your VIZIO Smart TV and get it ready for streaming in minutes.
 
-Visit `vizio.com/setup <https://www.vizio.com/setup>`_ to start your setup journey today!
+Visit `vizio.com/setup <#>`_ to start your setup journey today!
 
 .. raw:: html
 
@@ -21,7 +21,7 @@ Visit `vizio.com/setup <https://www.vizio.com/setup>`_ to start your setup journ
 How to Set Up Your VIZIO Smart TV
 =================================
 
-Setting up your VIZIO Smart TV is easy with the step-by-step instructions available at [vizio.com/setup](https://www.vizio.com/setup). Start by powering on your TV, connecting to Wi-Fi, and signing in or creating a VIZIO account to access streaming apps. The site also guides you through software updates and device connections for a seamless experience. If you encounter issues, [vizio.com/setup](https://www.vizio.com/setup) offers troubleshooting tips and customer support links to help you get started quickly and effortlessly.
+Setting up your VIZIO Smart TV is easy with the step-by-step instructions available at [vizio.com/setup](https://www.vizio.com/setup). Start by powering on your TV, connecting to Wi-Fi, and signing in or creating a VIZIO account to access streaming apps. The site also guides you through software updates and device connections for a seamless experience. If you encounter issues, [vizio.com/setup](#) offers troubleshooting tips and customer support links to help you get started quickly and effortlessly.
 
 What Is vizio.com/setup?
 ========================
