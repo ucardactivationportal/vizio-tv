@@ -28,7 +28,7 @@ What Is vizio.com/setup?
 
 [vizio.com/setup](https://www.vizio.com/setup) is VIZIO's official setup page that provides step-by-step instructions and helpful tips for getting your Smart TV up and running. It’s especially useful if you’ve misplaced the paper manual or want a smoother, guided experience.
 
-What You’ll Need
+What You’ll Need ?
 ================
 
 Before you begin, make sure you have:
@@ -66,7 +66,7 @@ Step-by-Step to Set Up Your VIZIO Smart TV
    ---------------------------------
    If you have a cable box, game console, or streaming stick, choose the correct HDMI input and label it. Once this is done, your setup is complete!
 
-Why You Should Visit vizio.com/setup
+Why You Should Visit vizio.com/setup ?
 ====================================
 
 While you can complete most of the setup on the TV itself, visiting [vizio.com/setup](https://www.vizio.com/setup) on your phone or PC gives you:
@@ -79,15 +79,19 @@ Troubleshooting Common Setup Issues
 ===================================
 
 - **TV won’t connect to Wi-Fi?**  
+
   Double-check your password and try rebooting your router.
 
 - **Remote not responding?**  
+
   Make sure the batteries are fresh and properly inserted.
 
 - **TV stuck on update screen?**  
+
   Wait at least 15 minutes. If it doesn’t finish, unplug the TV and try again.
 
 - **Can’t create VIZIO account?**  
+
   Use your smartphone to visit [vizio.com/setup](https://www.vizio.com/setup) and complete registration there.
 
 What’s Next? Enjoy SmartCast!
@@ -114,25 +118,38 @@ FAQs
 ====
 
 **1. Where do I set up my VIZIO Smart TV?**  
+
 You can set up your TV online by visiting:  
-`https://www.vizio.com/setup <https://www.vizio.com/setup>`
+
+`https://www.vizio.com/setup <#>`
 
 **2. What details do I need to set up my VIZIO Smart TV?**  
+
 You’ll need:  
+
 * ✅ Your VIZIO Smart TV  
+
 * ✅ A working remote control  
+
 * ✅ Your Wi-Fi credentials  
+
 * ✅ A VIZIO account (or create one)
 
 **3. How long does the setup take?**  
+
 Setup usually takes about 15–20 minutes.
 
 **4. What if I have trouble setting up my TV?**  
+
 Try these fixes:  
+
 - Ensure your Wi-Fi password is correct  
+
 - Double-check the remote’s battery  
+
 - Visit [vizio.com/setup](https://www.vizio.com/setup) for troubleshooting tips
 
 **5. Can I set up my VIZIO TV on mobile?**  
+
 Yes! The setup process is mobile-friendly. You can visit [vizio.com/setup](https://www.vizio.com/setup) from your phone or tablet.
 
