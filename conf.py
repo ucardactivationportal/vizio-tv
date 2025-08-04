@@ -13,7 +13,7 @@ import sys
 
 project = 'How to Set Up Your VIZIO Smart TV'
 copyright = '2025, VIZIO Inc.'
-author = 'VIZIO''
+author = 'VIZIO'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
